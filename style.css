@@ -1,0 +1,97 @@
+/* Nav */
+.nav-link{
+    color: black;
+}
+nav li{
+    margin: 0 10px;
+}
+/* Button Style */
+.button-design{
+    font-family: 'Roboto', sans-serif;
+    border: none;
+    background-color: #21B573;
+    color: white;
+    border-radius: 33px;
+    padding: 10px 33px;
+}
+header{
+    background-color: #F0FFF0;
+    padding-bottom: 70px;
+}
+
+header h2{
+    font-weight: 700;
+    width: 275px;
+    line-height: 1.5;
+}
+.paragraph-highlights1{
+    color: #FD511A;
+}
+.heading-highlights{
+    color: #21B573;
+}
+.paragraph-highlights2{
+    margin-top: 20px;
+    width: 400px;
+    color: #6C6B6B;
+    line-height: 2;
+}
+
+.books{
+    margin-top: 60px;
+    margin-bottom: 85px;
+}
+
+.books h5{
+    margin-top: 35px;
+}
+.image-size{
+    height: 70px;
+    width: 66px;
+}
+.box-design{
+    padding: 50px 0;
+    background: #F8FFFB;
+    border-radius: 10px;
+}
+.special-box{
+    background: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+}
+/* Online Courses */
+.courses-part{
+    margin-bottom: 60px;
+}
+.card{
+    border: none;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+}
+.card-paragraph{
+    color: #585859;
+    font-size: 12px;
+}
+.icon-resize{
+    width: 21px;
+    height: 21px;
+    margin-bottom: 2px;
+}
+   /* testimonial */
+.testimonial-part{
+    margin-bottom: 60px;
+}
+ /* footer */
+footer{
+    background-color: #282531;
+    padding-top: 50px;
+}
+footer ul{
+    list-style-type: none;
+}
+footer a{
+    text-decoration: none;
+    color: white;
+    font-size: 13px;
+    font-weight: 400;
+}
